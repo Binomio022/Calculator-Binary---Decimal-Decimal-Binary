@@ -5,9 +5,9 @@ This is my first program in python
 
 New really soon 
 
-.___.
-{o,o}
-/)__)
--"-"-
+    .___.
+    {o,o}
+    /)__)
+    -"-"-
 
-    Aphrodite
+Aphrodite
